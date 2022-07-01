@@ -3,8 +3,6 @@
 
 - 😄 Pronouns [He/ Him]
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **lij061703@gmail.com**
 
 - ⚡ Fun fact **My favorite show is Friends**
