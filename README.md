@@ -1,7 +1,7 @@
 <h1 align="center">Aloha, I'm Jeremy</h1>
 <h3 align="center">Statistics & Machine Learning Undergraduate @ Carnegie Mellon University</h3>
 
-- 😄 Pronouns [He/ Him](He/ Him)
+- 😄 Pronouns [He/ Him]
 
 - 🌱 I’m currently learning **Machine Learning**
 
