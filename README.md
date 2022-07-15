@@ -1,8 +1,6 @@
 <h1 align="center">Aloha, I'm Jeremy</h1>
 <h3 align="center">Statistics & Machine Learning Undergraduate @ Carnegie Mellon University</h3>
 
-- 😄 Pronouns [He/ Him]
-
 - 📫 How to reach me **lij061703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
