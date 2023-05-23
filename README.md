@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Jeremy</h1>
-<h3 align="center">Statistics, ML & CS Undergraduate @ Carnegie Mellon University</h3>
-<h3 align="center">📫 How to reach me: jiabinl@andrew.cmu.edu</h3>
+
+<h3 align="center">Student @ Carnegie Mellon University</h3>
+
+<p>I'm an undergraduate student at Carnegie Mellon University majoring in Statistics & Machine Learning with Addition Minors in Computer Science and Optimization. Feel free to reach out at <a href = "mailto: jiabinl@andrew.cmu.edu">jiabinl@andrew.cmu.edu</a>! I'm interested in any internships or projects in software engineering, data science, data engineering, and ML engineering.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
