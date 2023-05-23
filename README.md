@@ -1,7 +1,7 @@
-<h1 align="center">Aloha, I'm Jeremy</h1>
-<h3 align="center">Statistics & Machine Learning Undergraduate @ Carnegie Mellon University</h3>
+<h1 align="center">Hey, I'm Jeremy</h1>
+<h3 align="center">Statistics, ML & CS Undergraduate @ Carnegie Mellon University</h3>
 
-- 📫 How to reach me **lij061703@gmail.com**
+- 📫 How to reach me: **lij061703@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
