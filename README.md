@@ -6,7 +6,7 @@
 
 If you have any opportunities available, I would love to hear from you. Please feel free to reach out to me at <b>jiabinl@andrew.cmu.edu.</b> I am passionate about applying my skills and knowledge in these areas and I am eager to contribute to meaningful projects.
 
-Thank you for considering my profile. I look forward to connecting with you!</p>
+Looking forward to connecting with you!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
