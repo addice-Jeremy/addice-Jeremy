@@ -2,11 +2,9 @@
 
 <h3 align="center">Undergraduate @ CMU</h3>
 
-<p>I am an undergraduate student at Carnegie Mellon University, pursuing a major in Statistics & Machine Learning with additional minors in Computer Science and Optimization. I am interested in internships and projects in the fields of software engineering, data science, data engineering, and ML engineering.
+I’m currently a junior at Carnegie Mellon University, majoring in [Statistics & Machine Learning](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/#statsmltext) with additional minors in [Artifical Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/minor) and [Business Analytics](https://www.cmu.edu/tepper/programs/undergraduate-business/curriculum/majors-and-minors.html). I like to use data science to add value - I am passionate about leveraging my skills in data science, machine learning, and artifical intelligence to contribute to meaningful projects. 
 
-If you have any opportunities available, I would love to hear from you. Please feel free to reach out to me at <b>jiabinl@andrew.cmu.edu.</b> I am passionate about applying my skills and knowledge in these areas and I am eager to contribute to meaningful projects.
-
-Looking forward to connecting with you!</p>
+Let's connect. I appreciate any potential projects  opportunities. You can reach me by [jiabinl@andrew.cmu.edu](mailto:“jiabinl@andrew.cmu.edu") or [lij061703@gmail.com](mailto:“lij061703@gmail.com").
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
