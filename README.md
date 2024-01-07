@@ -2,9 +2,9 @@
 
 <h3 align="center">Undergraduate @ CMU</h3>
 
-I’m currently a junior at Carnegie Mellon University, majoring in [Statistics & Machine Learning](http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/#statsmltext) with additional minors in [Artifical Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/minor) and [Business Analytics](https://www.cmu.edu/tepper/programs/undergraduate-business/curriculum/majors-and-minors.html). I like to use data science to add value - I am passionate about leveraging my skills in data science, machine learning, and artifical intelligence to meaningful projects. 
+I’m currently studyig <em>Statistics & Machine Learning, Artifical Intelligence, and Business Analytics</em> at <a href='https://www.cmu.edu/'>Carnegie Mellon Univeristy</a>. I'm originally from New York City and am currently based in Pittsburgh.
 
-Let's connect with any potential opportunities. You can reach me by [jiabinl@andrew.cmu.edu](mailto:“jiabinl@andrew.cmu.edu") or [lij061703@gmail.com](mailto:“lij061703@gmail.com").
+I like to use data to add value - I am passionate about leveraging my skills in DS, ML, and AI to meaningful projects. You can reach me by [jiabinl@andrew.cmu.edu](mailto:“jiabinl@andrew.cmu.edu").
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
